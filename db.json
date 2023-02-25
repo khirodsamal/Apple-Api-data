@@ -6,6 +6,13 @@
     "email":"samalkhirod32@gmail.com",
     "password":"12345"
 
+    },
+    {
+      "id":2,
+    "name":"Ashis",
+    "email":"ashis32@gmail.com",
+    "password":"23345"
+
     }
   ],
   "admin":[
